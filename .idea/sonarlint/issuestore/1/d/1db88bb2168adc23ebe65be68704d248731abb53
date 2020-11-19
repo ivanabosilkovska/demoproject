@@ -1,0 +1,13 @@
+
+M
+java:S1135."2Complete the task associated to this TODO comment.(”¥ë½ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Şˆ¯£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¸ğ˜©
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(êñ÷Ğüÿÿÿÿ
+>
+java:S1125"(Remove the literal "true" boolean value.(«¸ş•
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚÏŸ”
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(û¿ßúÿÿÿÿ
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(«¸ş•
