@@ -23,6 +23,7 @@ public class HelloWorld {
 
     public static void printMessage() {
         String message = "how are you?";
+        System.out.println("I'm fine, thanks!");
         System.out.println(message);
     }
 
