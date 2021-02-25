@@ -5,8 +5,8 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("Hello world!!!");
-        sayHello("Ivana");
-        sayGoodBye("Ivana");
+        sayHello("Violeta");
+        sayGoodBye("Luka");
 
         boolean flag = true;
         if(flag == true){
@@ -16,15 +16,7 @@ public class HelloWorld {
         }
 
 
-        printMessage();
 
-
-    }
-
-    public static void printMessage() {
-        String message = "how are you?";
-        System.out.println("I'm fine, thanks!");
-        System.out.println(message);
     }
 
     private int age;
